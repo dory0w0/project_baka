@@ -55,7 +55,9 @@ else:
 
 print("====================")
 print(f"Title: {title}")
+print("====================")
 print(description)
+print("====================")
 print(f"{label}: {count}")
 print(f"Score: {averageScore}")
 print("Genres:", ", ".join(genres))
